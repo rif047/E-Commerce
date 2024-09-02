@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap');
+
+body {
+    font-family: 'PT Sans', sans-serif;
+}
+
+.active {
+    background-color: #4c5165;
+    color: #f8f8f8f8;
+    border-radius: 5px;
+    font-weight: bold;
+}

@@ -1,0 +1,77 @@
+.table-container {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.MuiPaper-root {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.MuiTableContainer-root {
+    flex-grow: 1;
+    overflow-y: auto;
+}
+
+.MuiTableCell-root {
+    white-space: nowrap;
+}
+
+.MuiTableCell-head,
+.MuiTableCell-footer {
+    position: sticky;
+    background-color: inherit;
+    z-index: 1;
+}
+
+.MuiTableCell-head {
+    top: 0;
+}
+
+
+.MuiTablePagination-root {
+    position: sticky;
+    bottom: 0;
+    background-color: inherit;
+    z-index: 1;
+}
+
+.tss-1cdcmys-MUIDataTable-responsiveBase {
+    height: 100% !important;
+}
+
+.css-ei62j9-MuiPaper-root-MuiPopover-paper-MuiMenu-paper {
+    height: 160px !important;
+}
+
+.tss-1akey0g-MUIDataTableHeadCell-data {
+    font-weight: bold !important;
+    letter-spacing: 0.1em !important;
+}
+
+.css-1mozdto-MuiTypography-root {
+    font-weight: bold !important;
+    letter-spacing: 0.1em !important;
+}
+
+.tss-1fbujeu-MUIDataTableHeadCell-toolButton {
+    margin-left: 0px !important
+}
+
+.css-180pxr-MuiPaper-root-MuiPopover-paper-MuiMenu-paper {
+    height: auto !important;
+}
+
+.css-5ifvgr-MuiPaper-root-MuiPopover-paper {
+    height: auto !important;
+}
+
+.css-1nrlq1o-MuiFormControl-root {
+    padding: 0px 10px !important;
+}
+
+.tss-1ut6u0x-MUIDataTableHeadCell-fixedHeader {
+    background-color: #4c5165 !important;
+}
